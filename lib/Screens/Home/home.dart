@@ -228,7 +228,7 @@ class _HomePageState extends State<HomePage> {
           ) as String;
           if (autoBackPath == '') {
             ExtStorageProvider.getExtStorage(
-              dirName: 'BlackHole/Backups',
+              dirName: 'Sangeet/Backups',
               writeAccess: true,
             ).then((value) {
               Hive.box('settings').put('autoBackPath', value);
@@ -237,7 +237,7 @@ class _HomePageState extends State<HomePage> {
                 checked,
                 boxNames,
                 path: value,
-                fileName: 'BlackHole_AutoBackup',
+                fileName: 'Sangeet_AutoBackup',
                 showDialog: false,
               );
             });
@@ -247,7 +247,7 @@ class _HomePageState extends State<HomePage> {
               checked,
               boxNames,
               path: autoBackPath,
-              fileName: 'BlackHole_AutoBackup',
+              fileName: 'Sangeet_AutoBackup',
               showDialog: false,
             );
           }

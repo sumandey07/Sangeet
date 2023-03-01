@@ -109,7 +109,7 @@ class _AboutScreenState extends State<AboutScreen> {
                         onPressed: () {
                           launchUrl(
                             Uri.parse(
-                              'https://github.com/Sangwan5688/BlackHole',
+                              'https://github.com/Sangwan5688/Sangeet',
                             ),
                             mode: LaunchMode.externalApplication,
                           );
@@ -169,7 +169,7 @@ class _AboutScreenState extends State<AboutScreen> {
                       ),
                       onPressed: () {
                         const String upiUrl =
-                            'upi://pay?pa=ankit.sangwan.5688@oksbi&pn=BlackHole&mc=5732&aid=uGICAgIDn98OpSw&tr=BCR2DN6T37O6DB3Q';
+                            'upi://pay?pa=ankit.sangwan.5688@oksbi&pn=Sangeet&mc=5732&aid=uGICAgIDn98OpSw&tr=BCR2DN6T37O6DB3Q';
                         launchUrl(
                           Uri.parse(upiUrl),
                           mode: LaunchMode.externalApplication,
