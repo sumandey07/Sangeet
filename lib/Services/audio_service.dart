@@ -6,11 +6,11 @@ import 'dart:io';
 
 import 'package:audio_service/audio_service.dart';
 import 'package:audio_session/audio_session.dart';
-import 'package:sangeet/APIs/api.dart';
-import 'package:sangeet/Helpers/mediaitem_converter.dart';
-import 'package:sangeet/Helpers/playlist.dart';
-import 'package:sangeet/Screens/Player/audioplayer.dart';
-import 'package:sangeet/Services/youtube_services.dart';
+import 'package:blackhole/APIs/api.dart';
+import 'package:blackhole/Helpers/mediaitem_converter.dart';
+import 'package:blackhole/Helpers/playlist.dart';
+import 'package:blackhole/Screens/Player/audioplayer.dart';
+import 'package:blackhole/Services/youtube_services.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:just_audio/just_audio.dart';

@@ -1,15 +1,15 @@
 //
 
 import 'package:app_links/app_links.dart';
-import 'package:sangeet/APIs/spotify_api.dart';
-import 'package:sangeet/CustomWidgets/gradient_containers.dart';
-import 'package:sangeet/CustomWidgets/miniplayer.dart';
-import 'package:sangeet/CustomWidgets/snackbar.dart';
-import 'package:sangeet/CustomWidgets/textinput_dialog.dart';
-import 'package:sangeet/Helpers/import_export_playlist.dart';
-import 'package:sangeet/Helpers/playlist.dart';
-import 'package:sangeet/Helpers/search_add_playlist.dart';
-import 'package:sangeet/Helpers/spotify_helper.dart';
+import 'package:blackhole/APIs/spotify_api.dart';
+import 'package:blackhole/CustomWidgets/gradient_containers.dart';
+import 'package:blackhole/CustomWidgets/miniplayer.dart';
+import 'package:blackhole/CustomWidgets/snackbar.dart';
+import 'package:blackhole/CustomWidgets/textinput_dialog.dart';
+import 'package:blackhole/Helpers/import_export_playlist.dart';
+import 'package:blackhole/Helpers/playlist.dart';
+import 'package:blackhole/Helpers/search_add_playlist.dart';
+import 'package:blackhole/Helpers/spotify_helper.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';

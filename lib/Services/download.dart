@@ -2,9 +2,9 @@ import 'dart:io';
 
 import 'package:audiotagger/audiotagger.dart';
 import 'package:audiotagger/models/tag.dart';
-import 'package:sangeet/CustomWidgets/snackbar.dart';
-import 'package:sangeet/Helpers/lyrics.dart';
-import 'package:sangeet/Services/ext_storage_provider.dart';
+import 'package:blackhole/CustomWidgets/snackbar.dart';
+import 'package:blackhole/Helpers/lyrics.dart';
+import 'package:blackhole/Services/ext_storage_provider.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 // import 'package:flutter_downloader/flutter_downloader.dart';

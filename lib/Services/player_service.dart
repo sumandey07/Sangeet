@@ -3,9 +3,9 @@
 import 'dart:io';
 
 import 'package:audio_service/audio_service.dart';
-import 'package:sangeet/Helpers/mediaitem_converter.dart';
-import 'package:sangeet/Screens/Player/audioplayer.dart';
-import 'package:sangeet/Services/youtube_services.dart';
+import 'package:blackhole/Helpers/mediaitem_converter.dart';
+import 'package:blackhole/Screens/Player/audioplayer.dart';
+import 'package:blackhole/Services/youtube_services.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/hive_flutter.dart';

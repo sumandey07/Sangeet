@@ -1,13 +1,13 @@
 //
 
 import 'package:audio_service/audio_service.dart';
-import 'package:sangeet/CustomWidgets/add_playlist.dart';
-import 'package:sangeet/Helpers/add_mediaitem_to_queue.dart';
-import 'package:sangeet/Helpers/mediaitem_converter.dart';
-import 'package:sangeet/Screens/Common/song_list.dart';
-import 'package:sangeet/Screens/Search/albums.dart';
-import 'package:sangeet/Screens/Search/search.dart';
-import 'package:sangeet/Services/youtube_services.dart';
+import 'package:blackhole/CustomWidgets/add_playlist.dart';
+import 'package:blackhole/Helpers/add_mediaitem_to_queue.dart';
+import 'package:blackhole/Helpers/mediaitem_converter.dart';
+import 'package:blackhole/Screens/Common/song_list.dart';
+import 'package:blackhole/Screens/Search/albums.dart';
+import 'package:blackhole/Screens/Search/search.dart';
+import 'package:blackhole/Services/youtube_services.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';

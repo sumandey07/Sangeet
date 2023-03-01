@@ -1,15 +1,15 @@
 //
 
-import 'package:sangeet/APIs/api.dart';
-import 'package:sangeet/APIs/spotify_api.dart';
-import 'package:sangeet/Helpers/audio_query.dart';
-import 'package:sangeet/Helpers/spotify_helper.dart';
-import 'package:sangeet/Screens/Common/song_list.dart';
-import 'package:sangeet/Screens/Player/audioplayer.dart';
-import 'package:sangeet/Screens/Search/search.dart';
-import 'package:sangeet/Screens/YouTube/youtube_playlist.dart';
-import 'package:sangeet/Services/player_service.dart';
-import 'package:sangeet/Services/youtube_services.dart';
+import 'package:blackhole/APIs/api.dart';
+import 'package:blackhole/APIs/spotify_api.dart';
+import 'package:blackhole/Helpers/audio_query.dart';
+import 'package:blackhole/Helpers/spotify_helper.dart';
+import 'package:blackhole/Screens/Common/song_list.dart';
+import 'package:blackhole/Screens/Player/audioplayer.dart';
+import 'package:blackhole/Screens/Search/search.dart';
+import 'package:blackhole/Screens/YouTube/youtube_playlist.dart';
+import 'package:blackhole/Services/player_service.dart';
+import 'package:blackhole/Services/youtube_services.dart';
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
 import 'package:on_audio_query/on_audio_query.dart';

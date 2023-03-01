@@ -2,21 +2,21 @@
 
 import 'dart:io';
 
-import 'package:sangeet/CustomWidgets/copy_clipboard.dart';
-import 'package:sangeet/CustomWidgets/gradient_containers.dart';
-import 'package:sangeet/CustomWidgets/popup.dart';
-import 'package:sangeet/CustomWidgets/snackbar.dart';
-import 'package:sangeet/CustomWidgets/textinput_dialog.dart';
-import 'package:sangeet/Helpers/backup_restore.dart';
-import 'package:sangeet/Helpers/config.dart';
-import 'package:sangeet/Helpers/countrycodes.dart';
-import 'package:sangeet/Helpers/picker.dart';
-import 'package:sangeet/Helpers/supabase.dart';
-import 'package:sangeet/Screens/Home/saavn.dart' as home_screen;
-import 'package:sangeet/Screens/Settings/player_gradient.dart';
-import 'package:sangeet/Screens/Top Charts/top.dart' as top_screen;
-import 'package:sangeet/Services/ext_storage_provider.dart';
-import 'package:sangeet/main.dart';
+import 'package:blackhole/CustomWidgets/copy_clipboard.dart';
+import 'package:blackhole/CustomWidgets/gradient_containers.dart';
+import 'package:blackhole/CustomWidgets/popup.dart';
+import 'package:blackhole/CustomWidgets/snackbar.dart';
+import 'package:blackhole/CustomWidgets/textinput_dialog.dart';
+import 'package:blackhole/Helpers/backup_restore.dart';
+import 'package:blackhole/Helpers/config.dart';
+import 'package:blackhole/Helpers/countrycodes.dart';
+import 'package:blackhole/Helpers/picker.dart';
+import 'package:blackhole/Helpers/supabase.dart';
+import 'package:blackhole/Screens/Home/saavn.dart' as home_screen;
+import 'package:blackhole/Screens/Settings/player_gradient.dart';
+import 'package:blackhole/Screens/Top Charts/top.dart' as top_screen;
+import 'package:blackhole/Services/ext_storage_provider.dart';
+import 'package:blackhole/main.dart';
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

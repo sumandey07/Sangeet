@@ -1,7 +1,7 @@
 //
 
 import 'package:audio_service/audio_service.dart';
-import 'package:sangeet/Helpers/image_resolution_modifier.dart';
+import 'package:blackhole/Helpers/image_resolution_modifier.dart';
 
 // ignore: avoid_classes_with_only_static_members
 class MediaItemConverter {

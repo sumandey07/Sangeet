@@ -2,10 +2,10 @@
 
 import 'dart:io';
 
-import 'package:sangeet/CustomWidgets/download_button.dart';
-import 'package:sangeet/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:sangeet/Helpers/audio_query.dart';
-import 'package:sangeet/Services/player_service.dart';
+import 'package:blackhole/CustomWidgets/download_button.dart';
+import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
+import 'package:blackhole/Helpers/audio_query.dart';
+import 'package:blackhole/Services/player_service.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

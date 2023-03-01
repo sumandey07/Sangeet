@@ -2,21 +2,21 @@
 
 import 'dart:io';
 
-import 'package:sangeet/APIs/api.dart';
-import 'package:sangeet/CustomWidgets/collage.dart';
-import 'package:sangeet/CustomWidgets/horizontal_albumlist.dart';
-import 'package:sangeet/CustomWidgets/horizontal_albumlist_separated.dart';
-import 'package:sangeet/CustomWidgets/like_button.dart';
-import 'package:sangeet/CustomWidgets/on_hover.dart';
-import 'package:sangeet/CustomWidgets/snackbar.dart';
-import 'package:sangeet/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:sangeet/Helpers/extensions.dart';
-import 'package:sangeet/Helpers/format.dart';
-import 'package:sangeet/Helpers/image_resolution_modifier.dart';
-import 'package:sangeet/Screens/Common/song_list.dart';
-import 'package:sangeet/Screens/Library/liked.dart';
-import 'package:sangeet/Screens/Search/artists.dart';
-import 'package:sangeet/Services/player_service.dart';
+import 'package:blackhole/APIs/api.dart';
+import 'package:blackhole/CustomWidgets/collage.dart';
+import 'package:blackhole/CustomWidgets/horizontal_albumlist.dart';
+import 'package:blackhole/CustomWidgets/horizontal_albumlist_separated.dart';
+import 'package:blackhole/CustomWidgets/like_button.dart';
+import 'package:blackhole/CustomWidgets/on_hover.dart';
+import 'package:blackhole/CustomWidgets/snackbar.dart';
+import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
+import 'package:blackhole/Helpers/extensions.dart';
+import 'package:blackhole/Helpers/format.dart';
+import 'package:blackhole/Helpers/image_resolution_modifier.dart';
+import 'package:blackhole/Screens/Common/song_list.dart';
+import 'package:blackhole/Screens/Library/liked.dart';
+import 'package:blackhole/Screens/Search/artists.dart';
+import 'package:blackhole/Services/player_service.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
