@@ -69,13 +69,13 @@ IDI_APP_ICON            ICON                    "resources\\app_icon_64x64.ico"
 #ifdef FLUTTER_BUILD_NUMBER
 #define VERSION_AS_NUMBER FLUTTER_BUILD_NUMBER
 #else
-#define VERSION_AS_NUMBER 1,13,1
+#define VERSION_AS_NUMBER 1,0,0
 #endif
 
 #ifdef FLUTTER_BUILD_NAME
 #define VERSION_AS_STRING #FLUTTER_BUILD_NAME
 #else
-#define VERSION_AS_STRING "1.13.1"
+#define VERSION_AS_STRING "1.0.0"
 #endif
 
 VS_VERSION_INFO VERSIONINFO
@@ -99,7 +99,7 @@ BEGIN
             VALUE "FileDescription", "Sangeet" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "Sangeet" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2021 Ankit Sangwan. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 Suman Dey. All rights reserved." "\0"
             VALUE "OriginalFilename", "sangeet.exe" "\0"
             VALUE "ProductName", "Sangeet" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"

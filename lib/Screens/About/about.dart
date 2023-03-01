@@ -1,7 +1,7 @@
 //
 
-import 'package:blackhole/CustomWidgets/copy_clipboard.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
+import 'package:Sangeet/CustomWidgets/copy_clipboard.dart';
+import 'package:Sangeet/CustomWidgets/gradient_containers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:package_info_plus/package_info_plus.dart';
@@ -109,7 +109,7 @@ class _AboutScreenState extends State<AboutScreen> {
                         onPressed: () {
                           launchUrl(
                             Uri.parse(
-                              'https://github.com/Sangwan5688/Sangeet',
+                              'https://github.com/sumandey07/Sangeet',
                             ),
                             mode: LaunchMode.externalApplication,
                           );
@@ -144,7 +144,7 @@ class _AboutScreenState extends State<AboutScreen> {
                       onPressed: () {
                         launchUrl(
                           Uri.parse(
-                            'https://www.buymeacoffee.com/ankitsangwan',
+                            'https://www.buymeacoffee.com/sumankumarQ',
                           ),
                           mode: LaunchMode.externalApplication,
                         );
