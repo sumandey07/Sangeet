@@ -1,5 +1,3 @@
-//
-
 import 'package:Sangeet/APIs/spotify_api.dart';
 import 'package:app_links/app_links.dart';
 import 'package:hive_flutter/hive_flutter.dart';
