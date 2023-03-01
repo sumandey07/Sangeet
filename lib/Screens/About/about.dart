@@ -1,5 +1,3 @@
-//
-
 import 'package:Sangeet/CustomWidgets/copy_clipboard.dart';
 import 'package:Sangeet/CustomWidgets/gradient_containers.dart';
 import 'package:flutter/material.dart';
@@ -169,7 +167,7 @@ class _AboutScreenState extends State<AboutScreen> {
                       ),
                       onPressed: () {
                         const String upiUrl =
-                            'upi://pay?pa=ankit.sangwan.5688@oksbi&pn=Sangeet&mc=5732&aid=uGICAgIDn98OpSw&tr=BCR2DN6T37O6DB3Q';
+                            'upi://pay?pa=sumankumardey89@oksbi&pn=Sangeet';
                         launchUrl(
                           Uri.parse(upiUrl),
                           mode: LaunchMode.externalApplication,
@@ -178,7 +176,7 @@ class _AboutScreenState extends State<AboutScreen> {
                       onLongPress: () {
                         copyToClipboard(
                           context: context,
-                          text: 'ankit.sangwan.5688@oksbi',
+                          text: 'sumankumardey89@oksbi',
                           displayText: AppLocalizations.of(
                             context,
                           )!

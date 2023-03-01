@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1002304014127-sln51rhotf3vmlnsoqtbfgcotqbnucj0.apps.googleusercontent.com</string>
+	<string>938273869324-gcbmdo8pnfjpm05o7d1mojilmh6jt260.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1002304014127-sln51rhotf3vmlnsoqtbfgcotqbnucj0</string>
+	<string>com.googleusercontent.apps.938273869324-gcbmdo8pnfjpm05o7d1mojilmh6jt260</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCTpmYCQ98UQ8Xt-brXBz_QkSGqEM_1Jdo</string>
+	<string>AIzaSyDNtMVg_Dcf2_j82jFhRtnKRxDIpIHqd0o</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1002304014127</string>
+	<string>938273869324</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.suman.sangeet</string>
 	<key>PROJECT_ID</key>
-	<string>sangeet-6e784</string>
+	<string>sangeet-b4b33</string>
 	<key>STORAGE_BUCKET</key>
-	<string>sangeet-6e784.appspot.com</string>
+	<string>sangeet-b4b33.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1002304014127:ios:09fec9f7380538ab8843da</string>
-	<key>DATABASE_URL</key>
-	<string>https://sangeet-6e784-default-rtdb.firebaseio.com</string>
+	<string>1:938273869324:ios:63cf555c6d5cd78d17a829</string>
 </dict>
 </plist>
