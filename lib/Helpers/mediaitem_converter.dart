@@ -1,5 +1,3 @@
-//
-
 import 'package:Sangeet/Helpers/image_resolution_modifier.dart';
 import 'package:audio_service/audio_service.dart';
 
