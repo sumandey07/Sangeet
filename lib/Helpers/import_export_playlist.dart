@@ -3,9 +3,9 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/Helpers/picker.dart';
-import 'package:blackhole/Helpers/songs_count.dart';
+import 'package:Sangeet/CustomWidgets/snackbar.dart';
+import 'package:Sangeet/Helpers/picker.dart';
+import 'package:Sangeet/Helpers/songs_count.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:hive/hive.dart';

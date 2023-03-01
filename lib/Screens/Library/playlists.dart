@@ -1,13 +1,13 @@
 //
 
-import 'package:blackhole/CustomWidgets/collage.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/miniplayer.dart';
-import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/CustomWidgets/textinput_dialog.dart';
-import 'package:blackhole/Helpers/import_export_playlist.dart';
-import 'package:blackhole/Screens/Library/import.dart';
-import 'package:blackhole/Screens/Library/liked.dart';
+import 'package:Sangeet/CustomWidgets/collage.dart';
+import 'package:Sangeet/CustomWidgets/gradient_containers.dart';
+import 'package:Sangeet/CustomWidgets/miniplayer.dart';
+import 'package:Sangeet/CustomWidgets/snackbar.dart';
+import 'package:Sangeet/CustomWidgets/textinput_dialog.dart';
+import 'package:Sangeet/Helpers/import_export_playlist.dart';
+import 'package:Sangeet/Screens/Library/import.dart';
+import 'package:Sangeet/Screens/Library/liked.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:hive_flutter/hive_flutter.dart';
