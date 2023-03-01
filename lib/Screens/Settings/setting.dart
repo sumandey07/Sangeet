@@ -1,5 +1,3 @@
-//
-
 import 'dart:io';
 
 import 'package:Sangeet/CustomWidgets/copy_clipboard.dart';
@@ -3678,7 +3676,7 @@ class _SettingPageState extends State<SettingPage>
                             Share.share(
                               '${AppLocalizations.of(
                                 context,
-                              )!.shareAppText}: https://github.com/Sangwan5688/Sangeet',
+                              )!.shareAppText}: https://github.com/sumandey07/Sangeet',
                             );
                           },
                           dense: true,
@@ -3700,7 +3698,7 @@ class _SettingPageState extends State<SettingPage>
                           onTap: () {
                             launchUrl(
                               Uri.parse(
-                                'https://www.buymeacoffee.com/ankitsangwan',
+                                'https://www.buymeacoffee.com/sumankumarQ',
                               ),
                               mode: LaunchMode.externalApplication,
                             );
@@ -3723,7 +3721,7 @@ class _SettingPageState extends State<SettingPage>
                           isThreeLine: true,
                           onTap: () {
                             const String upiUrl =
-                                'upi://pay?pa=ankit.sangwan.5688@oksbi&pn=Sangeet';
+                                'upi://pay?pa=sumankumardey89@oksbi&pn=Sangeet';
                             launchUrl(
                               Uri.parse(upiUrl),
                               mode: LaunchMode.externalApplication,
@@ -3732,7 +3730,7 @@ class _SettingPageState extends State<SettingPage>
                           onLongPress: () {
                             copyToClipboard(
                               context: context,
-                              text: 'ankit.sangwan.5688@oksbi',
+                              text: 'sumankumardey89@oksbi',
                               displayText: AppLocalizations.of(
                                 context,
                               )!
@@ -3749,7 +3747,7 @@ class _SettingPageState extends State<SettingPage>
                             onPressed: () {
                               copyToClipboard(
                                 context: context,
-                                text: 'ankit.sangwan.5688@oksbi',
+                                text: 'sumankumardey89@oksbi',
                                 displayText: AppLocalizations.of(
                                   context,
                                 )!
