@@ -23,6 +23,7 @@ dependencies:
   dart_des: ^1.0.2
   device_info_plus: ^8.0.0
   file_picker: ^5.2.5
+  firebase_core: ^2.7.0
   flip_card: ^0.7.0
   flutter:
     sdk: flutter

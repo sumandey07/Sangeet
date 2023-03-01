@@ -1,5 +1,3 @@
-//
-
 import 'package:Sangeet/CustomWidgets/gradient_containers.dart';
 import 'package:Sangeet/Helpers/backup_restore.dart';
 import 'package:Sangeet/Helpers/config.dart';
@@ -114,7 +112,7 @@ class _AuthScreenState extends State<AuthScreen> {
                               children: [
                                 RichText(
                                   text: TextSpan(
-                                    text: 'Black\nHole\n',
+                                    text: 'Sangeet\n',
                                     style: TextStyle(
                                       height: 0.97,
                                       fontSize: 80,
