@@ -1,14 +1,14 @@
 //
 
-import 'package:blackhole/CustomWidgets/bouncy_playlist_header_scroll_view.dart';
-import 'package:blackhole/CustomWidgets/copy_clipboard.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/miniplayer.dart';
-import 'package:blackhole/CustomWidgets/playlist_popupmenu.dart';
-import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:blackhole/Services/player_service.dart';
-import 'package:blackhole/Services/youtube_services.dart';
-import 'package:blackhole/Services/yt_music.dart';
+import 'package:Sangeet/CustomWidgets/bouncy_playlist_header_scroll_view.dart';
+import 'package:Sangeet/CustomWidgets/copy_clipboard.dart';
+import 'package:Sangeet/CustomWidgets/gradient_containers.dart';
+import 'package:Sangeet/CustomWidgets/miniplayer.dart';
+import 'package:Sangeet/CustomWidgets/playlist_popupmenu.dart';
+import 'package:Sangeet/CustomWidgets/song_tile_trailing_menu.dart';
+import 'package:Sangeet/Services/player_service.dart';
+import 'package:Sangeet/Services/youtube_services.dart';
+import 'package:Sangeet/Services/yt_music.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';

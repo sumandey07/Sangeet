@@ -1,16 +1,16 @@
 //
 
-import 'package:blackhole/CustomWidgets/add_playlist.dart';
-import 'package:blackhole/CustomWidgets/custom_physics.dart';
-import 'package:blackhole/CustomWidgets/data_search.dart';
-import 'package:blackhole/CustomWidgets/empty_screen.dart';
-import 'package:blackhole/CustomWidgets/gradient_containers.dart';
-import 'package:blackhole/CustomWidgets/miniplayer.dart';
-import 'package:blackhole/CustomWidgets/playlist_head.dart';
-import 'package:blackhole/CustomWidgets/snackbar.dart';
-import 'package:blackhole/Helpers/audio_query.dart';
-import 'package:blackhole/Screens/LocalMusic/localplaylists.dart';
-import 'package:blackhole/Services/player_service.dart';
+import 'package:Sangeet/CustomWidgets/add_playlist.dart';
+import 'package:Sangeet/CustomWidgets/custom_physics.dart';
+import 'package:Sangeet/CustomWidgets/data_search.dart';
+import 'package:Sangeet/CustomWidgets/empty_screen.dart';
+import 'package:Sangeet/CustomWidgets/gradient_containers.dart';
+import 'package:Sangeet/CustomWidgets/miniplayer.dart';
+import 'package:Sangeet/CustomWidgets/playlist_head.dart';
+import 'package:Sangeet/CustomWidgets/snackbar.dart';
+import 'package:Sangeet/Helpers/audio_query.dart';
+import 'package:Sangeet/Screens/LocalMusic/localplaylists.dart';
+import 'package:Sangeet/Services/player_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
