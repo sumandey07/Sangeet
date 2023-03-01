@@ -1,4 +1,4 @@
-# flutter_music
+# Sangeet
 
 This is a Music Player app made by our College Team using Flutter
 
