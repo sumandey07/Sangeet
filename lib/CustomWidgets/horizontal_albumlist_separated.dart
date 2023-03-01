@@ -1,8 +1,8 @@
 //
 
-import 'package:blackhole/CustomWidgets/custom_physics.dart';
-import 'package:blackhole/CustomWidgets/song_tile_trailing_menu.dart';
-import 'package:blackhole/Helpers/image_resolution_modifier.dart';
+import 'package:Sangeet/CustomWidgets/custom_physics.dart';
+import 'package:Sangeet/CustomWidgets/song_tile_trailing_menu.dart';
+import 'package:Sangeet/Helpers/image_resolution_modifier.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
