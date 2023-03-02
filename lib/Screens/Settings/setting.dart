@@ -3806,7 +3806,7 @@ class _SettingPageState extends State<SettingPage>
                                                 Navigator.pop(context);
                                                 launchUrl(
                                                   Uri.parse(
-                                                    'https://mail.google.com/mail/?extsrc=mailto&url=mailto:sumankumardey89@gmail.com?subject=Regarding%20Mobile%20App',
+                                                    'mailto:sumankumardey89@gmail.com?subject=Regarding%20the%20Sangeet%20App',
                                                   ),
                                                   mode: LaunchMode
                                                       .externalApplication,
