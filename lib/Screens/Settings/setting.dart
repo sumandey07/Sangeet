@@ -3837,7 +3837,7 @@ class _SettingPageState extends State<SettingPage>
                                                 Navigator.pop(context);
                                                 launchUrl(
                                                   Uri.parse(
-                                                    'https://telegram.me/hellomusicapp',
+                                                    'https://telegram.me/sangeetmusicapp',
                                                   ),
                                                   mode: LaunchMode
                                                       .externalApplication,
@@ -3931,7 +3931,7 @@ class _SettingPageState extends State<SettingPage>
                                                 Navigator.pop(context);
                                                 launchUrl(
                                                   Uri.parse(
-                                                    'https://telegram.me/hellomusicapp',
+                                                    'https://telegram.me/sangeetmusicapp',
                                                   ),
                                                   mode: LaunchMode
                                                       .externalApplication,
@@ -3962,7 +3962,7 @@ class _SettingPageState extends State<SettingPage>
                                                 Navigator.pop(context);
                                                 launchUrl(
                                                   Uri.parse(
-                                                    'https://telegram.me/hellomusicapp',
+                                                    'https://telegram.me/sangeetmusicchannel',
                                                   ),
                                                   mode: LaunchMode
                                                       .externalApplication,
